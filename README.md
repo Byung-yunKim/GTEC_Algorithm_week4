@@ -1,7 +1,7 @@
 # GTEC_Algorithm_week4
 
 class calculate():    
-    def '__'init__(self, arg1, arg2):    
+    def __init__(self, arg1, arg2):    
         self.first = arg1    
         self.second = arg2    
     
